@@ -139,9 +139,9 @@ LibraryBookTracker/
 
 ## 👤 Author
 
-**[KAJAL PAREEK]**  
-[VIT BHOPAL UNIVERSITY]  
-[24BHI10086]  
+**KAJAL PAREEK**  
+VIT BHOPAL UNIVERSITY 
+24BHI10086 
 
 ---
 
