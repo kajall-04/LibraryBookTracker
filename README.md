@@ -139,9 +139,9 @@ LibraryBookTracker/
 
 ## 👤 Author
 
-**[Your Name]**  
-[Your College Name]  
-[Your Roll No.]  
+**[KAJAL PAREEK]**  
+[VIT BHOPAL UNIVERSITY]  
+[24BHI10086]  
 
 ---
 
